@@ -1,0 +1,41 @@
+.fform {
+  padding-left: 200px;
+  padding-bottom: 40px;
+}
+.sform {
+  padding-left: 200px;
+}
+.homebg{
+ 
+
+  padding: 50px;
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+.aform{
+    padding-left: 500px;
+    justify-content: center;
+    padding-top: 150px;
+  padding-bottom: 200px;
+}
+.footer{
+    background-color: green;
+    color: white;
+    
+    
+    
+}
+
+.fl
+{
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+.colo{
+ color: black;
+}
+.abg{
+  background-color:#c3fae8;
+}

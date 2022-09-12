@@ -1,0 +1,52 @@
+li{
+    padding: 10px;
+    font-size: 25px;
+    padding-left: 50px;
+    list-style: none;
+    
+}
+
+.nav{
+    position:fixed;
+}
+.text,.text1{
+    text-decoration: none;
+    color: white;
+}
+.adminbtn{
+    padding-left: 30px;
+    color: white;
+}
+nav{
+    display: flex;
+    background-color:green;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+
+    
+}
+ul{
+    list-style-type: none;
+    font-size: 24px;
+}
+li{
+    display: inline;
+   
+
+}
+
+
+#event{
+    padding-left: 50px;
+}
+#student{
+    padding-left: 80px;
+}
+#faculty{
+    padding-left: 80px;
+}
+#message{
+    padding-left: 780px;
+}
